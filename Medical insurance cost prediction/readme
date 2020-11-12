@@ -1,0 +1,14 @@
+THE DATASET
+It is taken from https://www.kaggle.com/mirichoi0218/insurance
+The following values in the dataset are converted to numerical values for computation
+GENDER
+  male-0
+  female-1
+SMOKER
+  yes-1
+  no-0
+REGION
+  southwest-0
+  northwest-1
+  southeast-2
+  northeast-4
