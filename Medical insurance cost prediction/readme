@@ -12,3 +12,15 @@ REGION
   northwest-1
   southeast-2
   northeast-4
+  
+PREPROCESSING
+  Train data size:80% of total data
+  Standardization
+  Prediction feature: Cost of medical insurance that must be assigned
+  
+PREDICTOR
+ The model used to predict:Linear Regression(Multivariate)
+ Regression coeffiecients:[[ 3.53319380e+03 -1.82804144e+00  1.95055819e+03  5.38067820e+02  9.47902696e+03  1.83293747e+02]]
+ Base(Theta0): [13215.86322421] 
+ Score:79.52793338080295(predicted results vs original results in test data)
+  
